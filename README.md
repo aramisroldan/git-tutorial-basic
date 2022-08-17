@@ -12,3 +12,5 @@ Esta linea es el primer commit en la terminal
 Esta linea representa el segundo commit realizado por terminal. Ademas muestra el funcionamiento de add. en este commit no se mostrará el archivo texto.txt
 
 Este es el cuarto commit por desktop
+
+Este es el primer commit por desktop usando pull
