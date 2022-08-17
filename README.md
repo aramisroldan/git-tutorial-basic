@@ -8,3 +8,5 @@ También aprendimos que el archivo README.md es compatible con [MarkDown](https:
 Esta linea representa el segundo commit realizado via web, mi perfil en GitHub es el siguiente [Aramis Roldan](https://github.com/settings/profile)
 
 Esta linea es el primer commit en la terminal
+
+Esta linea representa el segundo commit realizado por terminal. Ademas muestra el funcionamiento de add. en este commit no se mostrará el archivo texto.txt
