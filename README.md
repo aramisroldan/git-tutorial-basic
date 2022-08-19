@@ -14,3 +14,5 @@ Esta linea representa el segundo commit realizado por terminal. Ademas muestra e
 Este es el cuarto commit por desktop
 
 Este es el primer commit por desktop usando pull
+
+Esta linea representa un commit realizado con la funcion de Source Control integrado en Visual Studio Code
